@@ -13,4 +13,4 @@ O objetivo do projeto é desenvolver um jogo simples inspirado no universo de De
 </div>
 
 ##
-***Nota***: Este repositório foi desenvolvido com base na aula **"Criando um Jogo do Detona Ralph com JavaScript"** da plataforma [Dio.me](https://web.dio.me/home), parte do Bootcamp [Ri Happy - Front-end do Zero](https://web.dio.me/track/coding-future-front-end-do-zero). Agradeço aos instrutores e à comunidade por fornecerem recursos valiosos que contribuíram para a criação deste projeto.
+***Nota**:* *Este repositório foi desenvolvido com base na aula **"Criando um Jogo do Detona Ralph com JavaScript"** da plataforma [Dio.me](https://web.dio.me/home), parte do Bootcamp [Ri Happy - Front-end do Zero](https://web.dio.me/track/coding-future-front-end-do-zero). Agradeço aos instrutores e à comunidade por fornecerem recursos valiosos que contribuíram para a criação deste projeto.*
