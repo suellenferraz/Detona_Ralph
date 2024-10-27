@@ -2,25 +2,26 @@
     display: flex;
     flex-direction: column;
     height: 100vh;
+    background-image: url("../Images/wall.png");
 }
 
 .menu {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
+    gap: 50px; /* Espaço entre cada item do menu */
     height: 90px;
-    width: 100%;
     background-color: black;
-    color: white
+    color: white;
+    border-bottom: 5px solid rgb(0, 0, 0);
 }
 
 .panel {
-    margin-top: 1rem;
+    margin-top: 5rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid red;
-}
+  }
 
 .square {
     height: 150px;
@@ -30,8 +31,25 @@
 }
 
 .enemy {
-    background-color: red;
+    background-image: url("../Images/ralph.png");
+    background-size: cover;
 }
 
+.menu_item {
+    display: flex;
+    align-items: center;
+    gap: 20px; 
+}
 
+.menu_item img {
+    width: 50px; 
+    height: auto; 
+}
 
+.label {
+    color: red;
+}
+
+.value {
+    color: white;
+}
