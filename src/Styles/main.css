@@ -35,21 +35,33 @@
     background-size: cover;
 }
 
-.menu_item {
+.menu_time {
     display: flex;
     align-items: center;
     gap: 20px; 
 }
 
-.menu_item img {
-    width: 50px; 
-    height: auto; 
+.menu_score {
+    display: flex;
+    align-items: center;
+    gap: 20px; 
 }
 
-.label {
-    color: red;
+.menu_lives {
+    display: flex;
+    align-items: center;
+    gap: 5px; 
 }
 
-.value {
-    color: white;
+.menu_lives img {
+    width: 55px; 
+    height: 55px;
+}
+
+#score {
+    color: red
+}
+
+#time {
+    color: red
 }
